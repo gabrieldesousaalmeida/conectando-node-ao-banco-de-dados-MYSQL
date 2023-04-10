@@ -8,6 +8,7 @@ como conectar node com banco de dados MySQL e usando Workbench
 # npm i nodemon -dev
 
 # npm i mysql --save
+https://www.npmjs.com/package/mysql - documentação
 
 PARA RESOLVER O PROBLEMA DO upgrading MYsql client
 
@@ -16,3 +17,5 @@ mudando root e password
 
 # grant all privileges on * . * to 'root'@'localhost'
 mudar permissões do usuário
+
+
